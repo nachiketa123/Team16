@@ -1,0 +1,12 @@
+﻿Course Code,Course Name,Course Credits,Course Type,Period,Group Name
+BE 1,DBMS,2,Mandatory,P1,NA
+BE 2,Operating System,2,Mandatory,P1,NA
+BE 3,Java,3,Optional,P1,G1
+BE 4,C++,2,Optional,P1,G1
+BE 5,Web Technology,1,Optional,P1,G1
+BE 6,Computer Network,3,Optional,P1,G2
+BE 7,Computer Architecture,2,Optional,P1,G2
+BE 8,Data Mining,1,Optional,P1,G2
+BE 9,Artificial Intelligence,3,Optional,P1,G3
+BE 10,Machine Learning,2,Optional,P1,G3
+BE 11,Cyber Security,1,Optional,P1,G3
